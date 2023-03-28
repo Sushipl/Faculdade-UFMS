@@ -1,0 +1,40 @@
+1a) {a, b, c}, {1, 2, 3, 4}, {1, 2, 3}
+1b) {a, b, c, d}, {1, 2, 3, 4}, {1, 2, 3}
+1c) não é função
+1d) {a, b, c, d}, {1, 2, 3, 4}, {2}
+
+2a) Sim
+2b) Não
+2c) Sim
+2d) Não
+
+3a) Não
+3b) Sim
+3c) Sim
+3d) Não
+
+4a) Não
+4b) Sim
+4c) Não
+4d) Sim
+
+5) {}
+
+6a) 18
+6b) 16
+6c) 3(x + 1)
+6d) 3x + 1
+6e) x + 2
+6f) 9x
+
+7a) {(a, x), (b, y), (c, x), (d, y)}
+7b) {(a, x), (b, y), (c, x), (d, z)}
+7c) Não, Porque não há elementos suficientes em T para que todos os elementos em S tenham um resultado
+
+8a) 4x² + 4x +-1
+8b) 2x² -3 
+
+9a) f: Não é, g: Não é, h: É
+9b) Não há?
+
+10) f: Não há, g: Não há, h: Há
