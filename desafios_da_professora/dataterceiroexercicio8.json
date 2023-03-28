@@ -1,0 +1,482 @@
+[
+	{
+		"Sexo": "M",
+		"Peso": 108.6,
+		"Idade": 81,
+		"Altura": 1.94
+	},
+	{
+		"Sexo": "M",
+		"Peso": 117.7,
+		"Idade": 83,
+		"Altura": 2.27
+	},
+	{
+		"Sexo": "M",
+		"Peso": 96.6,
+		"Idade": 34,
+		"Altura": 1.38
+	},
+	{
+		"Sexo": "M",
+		"Peso": 116.0,
+		"Idade": 81,
+		"Altura": 2.00
+	},
+	{
+		"Sexo": "F",
+		"Peso": 91.4,
+		"Idade": 69,
+		"Altura": 2.03
+	},
+	{
+		"Sexo": "M",
+		"Peso": 111.9,
+		"Idade": 68,
+		"Altura": 2.90
+	},
+	{
+		"Sexo": "M",
+		"Peso": 105.6,
+		"Idade": 44,
+		"Altura": 2.24
+	},
+	{
+		"Sexo": "F",
+		"Peso": 116.9,
+		"Idade": 79,
+		"Altura": 2.45
+	},
+	{
+		"Sexo": "M",
+		"Peso": 97.9,
+		"Idade": 70,
+		"Altura": 2.07
+	},
+	{
+		"Sexo": "F",
+		"Peso": 116.9,
+		"Idade": 72,
+		"Altura": 0.79
+	},
+	{
+		"Sexo": "M",
+		"Peso": 106.0,
+		"Idade": 97,
+		"Altura": 1.62
+	},
+	{
+		"Sexo": "M",
+		"Peso": 93.4,
+		"Idade": 82,
+		"Altura": 1.39
+	},
+	{
+		"Sexo": "M",
+		"Peso": 90.5,
+		"Idade": 79,
+		"Altura": 2.36
+	},
+	{
+		"Sexo": "M",
+		"Peso": 94.0,
+		"Idade": 55,
+		"Altura": 2.38
+	},
+	{
+		"Sexo": "M",
+		"Peso": 93.8,
+		"Idade": 74,
+		"Altura": 2.44
+	},
+	{
+		"Sexo": "F",
+		"Peso": 91.1,
+		"Idade": 94,
+		"Altura": 1.58
+	},
+	{
+		"Sexo": "M",
+		"Peso": 90.7,
+		"Idade": 20,
+		"Altura": 1.10
+	},
+	{
+		"Sexo": "F",
+		"Peso": 114.7,
+		"Idade": 33,
+		"Altura": 1.31
+	},
+	{
+		"Sexo": "M",
+		"Peso": 109.3,
+		"Idade": 68,
+		"Altura": 2.32
+	},
+	{
+		"Sexo": "M",
+		"Peso": 106.8,
+		"Idade": 55,
+		"Altura": 2.36
+	},
+	{
+		"Sexo": "F",
+		"Peso": 103.4,
+		"Idade": 62,
+		"Altura": 2.40
+	},
+	{
+		"Sexo": "F",
+		"Peso": 101.5,
+		"Idade": 85,
+		"Altura": 2.66
+	},
+	{
+		"Sexo": "F",
+		"Peso": 106.6,
+		"Idade": 29,
+		"Altura": 1.73
+	},
+	{
+		"Sexo": "F",
+		"Peso": 81.9,
+		"Idade": 65,
+		"Altura": 2.22
+	},
+	{
+		"Sexo": "M",
+		"Peso": 108.7,
+		"Idade": 49,
+		"Altura": 1.16
+	},
+	{
+		"Sexo": "M",
+		"Peso": 108.7,
+		"Idade": 23,
+		"Altura": 2.24
+	},
+	{
+		"Sexo": "F",
+		"Peso": 97.0,
+		"Idade": 74,
+		"Altura": 2.00
+	},
+	{
+		"Sexo": "M",
+		"Peso": 95.4,
+		"Idade": 40,
+		"Altura": 1.13
+	},
+	{
+		"Sexo": "M",
+		"Peso": 122.6,
+		"Idade": 38,
+		"Altura": 0.83
+	},
+	{
+		"Sexo": "F",
+		"Peso": 88.2,
+		"Idade": 70,
+		"Altura": 1.89
+	},
+	{
+		"Sexo": "M",
+		"Peso": 104.6,
+		"Idade": 80,
+		"Altura": 2.23
+	},
+	{
+		"Sexo": "M",
+		"Peso": 99.1,
+		"Idade": 15,
+		"Altura": 1.72
+	},
+	{
+		"Sexo": "F",
+		"Peso": 78.8,
+		"Idade": 81,
+		"Altura": 2.51
+	},
+	{
+		"Sexo": "F",
+		"Peso": 103.0,
+		"Idade": 59,
+		"Altura": 2.16
+	},
+	{
+		"Sexo": "F",
+		"Peso": 94.8,
+		"Idade": 72,
+		"Altura": 1.80
+	},
+	{
+		"Sexo": "F",
+		"Peso": 89.0,
+		"Idade": 41,
+		"Altura": 2.59
+	},
+	{
+		"Sexo": "F",
+		"Peso": 116.1,
+		"Idade": 24,
+		"Altura": 1.88
+	},
+	{
+		"Sexo": "F",
+		"Peso": 103.6,
+		"Idade": 30,
+		"Altura": 1.88
+	},
+	{
+		"Sexo": "M",
+		"Peso": 92.9,
+		"Idade": 26,
+		"Altura": 2.15
+	},
+	{
+		"Sexo": "F",
+		"Peso": 104.0,
+		"Idade": 22,
+		"Altura": 1.02
+	},
+	{
+		"Sexo": "M",
+		"Peso": 100.1,
+		"Idade": 59,
+		"Altura": 2.37
+	},
+	{
+		"Sexo": "F",
+		"Peso": 107.5,
+		"Idade": 58,
+		"Altura": 1.81
+	},
+	{
+		"Sexo": "M",
+		"Peso": 106.5,
+		"Idade": 63,
+		"Altura": 2.68
+	},
+	{
+		"Sexo": "M",
+		"Peso": 94.3,
+		"Idade": 16,
+		"Altura": 1.96
+	},
+	{
+		"Sexo": "M",
+		"Peso": 88.6,
+		"Idade": 90,
+		"Altura": 1.96
+	},
+	{
+		"Sexo": "M",
+		"Peso": 111.1,
+		"Idade": 14,
+		"Altura": 1.15
+	},
+	{
+		"Sexo": "M",
+		"Peso": 102.8,
+		"Idade": 14,
+		"Altura": 0.84
+	},
+	{
+		"Sexo": "M",
+		"Peso": 109.4,
+		"Idade": 14,
+		"Altura": 2.33
+	},
+	{
+		"Sexo": "M",
+		"Peso": 83.2,
+		"Idade": 40,
+		"Altura": 1.94
+	},
+	{
+		"Sexo": "F",
+		"Peso": 101.0,
+		"Idade": 53,
+		"Altura": 1.93
+	},
+	{
+		"Sexo": "M",
+		"Peso": 89.5,
+		"Idade": 70,
+		"Altura": 2.43
+	},
+	{
+		"Sexo": "M",
+		"Peso": 110.9,
+		"Idade": 14,
+		"Altura": 2.20
+	},
+	{
+		"Sexo": "F",
+		"Peso": 87.1,
+		"Idade": 85,
+		"Altura": 1.40
+	},
+	{
+		"Sexo": "F",
+		"Peso": 95.4,
+		"Idade": 77,
+		"Altura": 1.61
+	},
+	{
+		"Sexo": "M",
+		"Peso": 88.9,
+		"Idade": 51,
+		"Altura": 1.25
+	},
+	{
+		"Sexo": "F",
+		"Peso": 105.0,
+		"Idade": 17,
+		"Altura": 1.58
+	},
+	{
+		"Sexo": "F",
+		"Peso": 70.7,
+		"Idade": 57,
+		"Altura": 1.59
+	},
+	{
+		"Sexo": "M",
+		"Peso": 117.4,
+		"Idade": 81,
+		"Altura": 1.19
+	},
+	{
+		"Sexo": "F",
+		"Peso": 99.1,
+		"Idade": 61,
+		"Altura": 2.80
+	},
+	{
+		"Sexo": "M",
+		"Peso": 94.6,
+		"Idade": 17,
+		"Altura": 2.09
+	},
+	{
+		"Sexo": "F",
+		"Peso": 95.4,
+		"Idade": 73,
+		"Altura": 2.73
+	},
+	{
+		"Sexo": "M",
+		"Peso": 96.7,
+		"Idade": 53,
+		"Altura": 1.38
+	},
+	{
+		"Sexo": "F",
+		"Peso": 115.9,
+		"Idade": 31,
+		"Altura": 2.17
+	},
+	{
+		"Sexo": "F",
+		"Peso": 99.1,
+		"Idade": 52,
+		"Altura": 1.98
+	},
+	{
+		"Sexo": "M",
+		"Peso": 91.5,
+		"Idade": 33,
+		"Altura": 1.92
+	},
+	{
+		"Sexo": "M",
+		"Peso": 92.5,
+		"Idade": 80,
+		"Altura": 1.36
+	},
+	{
+		"Sexo": "M",
+		"Peso": 103.0,
+		"Idade": 11,
+		"Altura": 1.75
+	},
+	{
+		"Sexo": "M",
+		"Peso": 93.9,
+		"Idade": 41,
+		"Altura": 2.86
+	},
+	{
+		"Sexo": "M",
+		"Peso": 100.6,
+		"Idade": 73,
+		"Altura": 1.87
+	},
+	{
+		"Sexo": "M",
+		"Peso": 105.3,
+		"Idade": 26,
+		"Altura": 2.30
+	},
+	{
+		"Sexo": "M",
+		"Peso": 111.2,
+		"Idade": 10,
+		"Altura": 1.99
+	},
+	{
+		"Sexo": "M",
+		"Peso": 79.2,
+		"Idade": 41,
+		"Altura": 2.77
+	},
+	{
+		"Sexo": "M",
+		"Peso": 98.3,
+		"Idade": 10,
+		"Altura": 2.63
+	},
+	{
+		"Sexo": "F",
+		"Peso": 108.4,
+		"Idade": 36,
+		"Altura": 2.35
+	},
+	{
+		"Sexo": "M",
+		"Peso": 103.2,
+		"Idade": 49,
+		"Altura": 1.17
+	},
+	{
+		"Sexo": "F",
+		"Peso": 98.8,
+		"Idade": 77,
+		"Altura": 2.21
+	},
+	{
+		"Sexo": "M",
+		"Peso": 91.9,
+		"Idade": 77,
+		"Altura": 1.49
+	},
+	{
+		"Sexo": "F",
+		"Peso": 85.4,
+		"Idade": 69,
+		"Altura": 1.46
+	},
+	{
+		"Sexo": "F",
+		"Peso": 100.1,
+		"Idade": 51,
+		"Altura": 1.46
+	},
+	{
+		"Sexo": "M",
+		"Peso": 95.1,
+		"Idade": 91,
+		"Altura": 2.05
+	}
+]
