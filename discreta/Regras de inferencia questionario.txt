@@ -95,12 +95,10 @@ Regras de inferência Básica:
 16)
 1 P ↔ ~Q		Premissa
 2 ~Q → P		1 (↔E)
-3 | ~~Q			R/ ao absurdo
-4 | ~P			2, 3 (MT)
-5 | ~Q			2, 4 (MT)
-6 | ~~Q ∧ ~Q		3, 5 (~E)
-7 ~~~Q			3 - 6 (RAA)
-8 ~Q			7 (~E)
-9 P			2, 8 (MP)
-10 | ~P			R/ ao absurdo
-11 | ~P ∧ P		9, 10 (I∧)
+3 P → ~Q    1 (↔E)
+4 | P ∧ Q   RAA
+5 | P         (E∧)
+6 | Q         (E∧)
+7 | ~Q         3, 5(MP)
+8 | Q ∧ ~Q     6, 7(I∧)
+9 ~(P ∧ Q)        4 - 8 RAA
