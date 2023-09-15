@@ -1,0 +1,10 @@
+p = []
+p.append(1)
+p.append(2)
+print(p.pop())
+p.append(3)
+p.append(4)
+print(p.pop())
+print(p.pop())
+print(p.pop())
+print(p)
