@@ -27,9 +27,11 @@ class Pilha:
 
     def mostra(self):
         pos = self.topo
+        l = []
         while pos != None:
-            print(pos.pegaDado(), end=" --> ")
+            l.append(pos.pegaDado())
             pos = pos.pegaProx()
+        return l[::-1]
 
     def desempilha(self):
         if self.topo!=None:
@@ -47,12 +49,25 @@ class Pilha:
             pos = pos.pegaProx()
         return cont
 
-class Estacionamento:
-    def __init__(self):
-        self.vagasmaximas = 10
-        self.pilha=Pilha()
-
 p = Pilha()
-p.empilhar(4)
-p.empilhar(7)
-print(p.mostra())
+inp = input()
+for letra in inp:
+    if letra == "(" or letra ==")":
+        p.empilhar(letra)
+
+certo = True
+abre = 0
+for i in p.mostra():
+
+    if i == "(":
+        abre+=1
+    elif i == ")":
+        abre-=1
+    if abre < 0:
+        certo = False
+if abre != 0:
+    certo = False
+if certo:
+    print("correto")
+else:
+    print("incorreto")
